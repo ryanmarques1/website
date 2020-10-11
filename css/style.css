@@ -10269,6 +10269,9 @@ h1 {
   display: flex;
   flex-direction: row;
 }
+#font-codigo{
+  font-family: 'spleen';
+}
 @font-face{
   font-family:spleen;
   src: url('https://raw.githubusercontent.com/luiztheblues/luiztheblues.github.io/a43e9978c998b8b39e6bd630ea5a2258c95fc020/source_files/fonts/spleen-8x16.otf');
